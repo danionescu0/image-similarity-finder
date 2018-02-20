@@ -1,4 +1,4 @@
-package similarity
+package histogram
 
 object HistogramCompare {
   val eps = 1e-10
